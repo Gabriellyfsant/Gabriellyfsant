@@ -9,7 +9,9 @@
 ---
 ## Sobre Mim
 "Vou aprender a ler para ensinar meus camaradas".
-Mulher preta, periférica, mãe, apaixonada pelo conhecimento e tecnologia. Aprendendo para ensinar.motivada a crescer e me desenvolver constantemente. 
+Mulher preta, periférica, mãe, apaixonada pelo conhecimento e tecnologia.
+Aprendendo para ensinar.motivada a crescer e me desenvolver constantemente. 
+Tive a minha primeira oportunidade de aprender tecnologia através do Instituto Guetto na A Escola da Ponte para Pretxs  que atua oferecendo cursos gratuitos que desenvolvem habilidades, visando transformar o futuro de pessoas negras e indígenas por meio da educação.
 
 ## Habilidades
 
@@ -27,8 +29,8 @@ Mulher preta, periférica, mãe, apaixonada pelo conhecimento e tecnologia. Apre
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="100" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="100" height="50"/>
 </p>
-## Objetivos
 
+## Objetivos
 - 📚 Aprender continuamente e expandir meus conhecimentos em tecnologia.
 - 💼 Colaborar com outros desenvolvedores e participar de projetos desafiadores.
 - 🌍 Fazer a diferença na comunidade periférica, incentivando e apoiando outras mulheres negras a entrarem na área de tecnologia.
@@ -40,8 +42,9 @@ Mulher preta, periférica, mãe, apaixonada pelo conhecimento e tecnologia. Apre
 - 🐦 @Preta_tech
 
 ---
+**Salmo 7:2**
+"Ò ETERNO ,MEU DEUS, EM TI EU BUSCO REFÚGIO; LIVRA-ME DE TODOS OS MEUS PERSEGUIDORES E SALVA-ME."
 
-_“A tecnologia oferece infinitas possibilidades, e estou apenas começando a explorar todas elas!”_
 
 ---
 
