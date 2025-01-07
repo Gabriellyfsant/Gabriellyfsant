@@ -40,6 +40,7 @@ Tive a minha primeira oportunidade de aprender tecnologia através do Instituto 
 - 📧 guelbiss23@gmail.com
 - 🌐 www.linkedin.com/in/gabriellysantoscybersecurity/
 - 🐦 @Preta_tech
+- 🌐 Discord:gabriellyfsant_60341
 
 ---
 **Salmo 7:2**
