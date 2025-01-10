@@ -1,7 +1,7 @@
-##  Bem-vindo ao meu perfil!👋
+##  Bem-vindo ao meu perfil!💫👩🏿‍💻
 
 
-👋 Olá! Eu sou Gabrielly Santos
+👋 Olá! Eu sou Gabrielly Santos👩🏿‍💻
 
 - 🌍 Localização: Santa Luzia, Minas Gerais, Brasil
 - 🌟 Iniciando na área de Tecnologia
